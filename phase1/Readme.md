@@ -29,3 +29,11 @@ search for "World Cup" in Title, "2019" in Infobox and "Sports" in Category
 
 t:the two towers i:1954
 search for "the two towers" in Title and "1954" in Infobox
+
+<b><h2>Phase 1 data links</b></h2>
+https://drive.google.com/drive/folders/1G6_EmGdzxeIIIdHP9CEPKpxCsg4WUFRy?usp=sharing
+https://wikimedia.bytemark.co.uk/enwiki/20200801/enwiki-20200801-pages-articles-multistream1.xml-p1p30303.bz2
+http://ftp.acc.umu.se/mirror/wikimedia.org/dumps/enwiki/20200801/enwiki-20200801-pages-articles-multistream-index1.txt-p1p30303.bz2
+https://ftp.acc.umu.se/mirror/wikimedia.org/dumps/enwiki/20200801/enwiki-20200801-pages-articles-multistream1.xml-p1p30303.bz2
+https://dumps.wikimedia.org/enwiki/20200801/enwiki-20200801-pages-articles-multistream1.xml-p1p30303.bz2
+
